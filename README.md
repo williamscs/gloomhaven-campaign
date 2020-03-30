@@ -4,10 +4,10 @@
 This character, from the intro, gave us our first quest (#1 Black Barrow) to retrieve some "important documents". We delivered a scroll to her, which may have been a mistake. Turns out she's a necromancer attempting to overthrow the leadership of Gloomhaven (the military) and the scroll provides her the ability to raise the dead. We confronted her initially in her hideout (#8 Gloomhaven Warehouse), but she made her escape. Her current whereabouts are unknown and we are looking to find her.
 
 ### Hail
-An Aesther woman who we discovered recently (#14 Frozen Hollow). We got her an orb containing a rift in our dimensional plane; she seems interested in discovering who has the power to create this. She also has given us the ability to enhance our cards, which requires "gold metal", i.e. cash. She may also provide the location of Jekserah (#7 Vibrant Grotto).
+An Aesther woman who we discovered recently (#14 Frozen Hollow). We retrieved an orb for her which contains a rift in our dimensional plane; she seems interested in discovering who has the power to create this. She also has given us the ability to **enhance our cards**, which requires "gold metal", i.e. cash. She may also provide the location of Jekserah (#7 Vibrant Grotto).
 
 ### Argeise
-Quatryl city guard. Approached us to investigate Jekserah's plans after we murdered some Inox children (#3 Inox Encampment). Directed us to Jekserah's initial hideout (#8 Gloomhaven Warehouse) where the necromancer then escaped.
+Quatryl city guard. Approached us to investigate Jekserah's plans after we murdered some Inox children (#3 Inox Encampment). Directed us to Jekserah's initial hideout (#8 Gloomhaven Warehouse) where the necromancer then escaped. Since Jekserah left the city, Argeise literally shrugged and said effectively "Not my problem now, bro".
 
 ## Recent Events
 * While hunting down the scroll for Jekserah (#2 Barrow Lair), we found bandits/cultists with the capability of raising the dead.  They declared that we would not "interrupt the work of the Gloom", but we still don't know what that means. Pursuing them further led us to discover that they were capable of summoning creatures from other elemental planes (night/frost/flame demons, etc). We had the opportunity to hinder them (#5 Ruinous Crypt) or help them (#6 Decaying Crypt). We initially chose to hinder them, but are still able to change our minds.
