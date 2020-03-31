@@ -20,10 +20,10 @@ Quatryl city guard. Approached us to investigate Jekserah's plans after we murde
 
 #7 Vibrant Grotto - Hail assists us in finding Jekserah
 
-#15 Shrine of Strength - We elect to receive strength from the disembodied voice
-OR
-#17 Lost Island - We elect to receive wealth from the disembodied voice
-OR
+#15 Shrine of Strength - We elect to receive strength from the disembodied voice\
+OR\
+#17 Lost Island - We elect to receive wealth from the disembodied voice\
+OR\
 #20 Necromancer's Sanctum - We elect to receive the location of Jekserah from the disembodied voice
 
 #19 Forgotten Crypt - Hail assists us in closing the extradimensional rift.
